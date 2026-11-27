@@ -1,0 +1,2 @@
+TCP server running at tcp://172.20.10.3:9192 (others can connect)
+Web Console server running at http://172.20.10.3:8182 (others can connect)
